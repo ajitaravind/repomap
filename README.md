@@ -1,6 +1,6 @@
 # Markdown File Combiner
 
-A Python-based GUI application for Windows that allows users to combine multiple text files into a single markdown file, with built-in token counting and file filtering capabilities. The combined markdown output can be used to create structured context for LLM input while preserving file hierarchy and relationships.
+A simple Python-based GUI application for Windows that allows users to select and combine multiple program files from their local machine into a single markdown file. This markdown file can then be used to create a structured context for LLM input, while preserving file hierarchy and relationships. The application comes with built-in token counting and file filtering capabilities.
 
 Mac users may want to check out [RepoPrompt](https://repoprompt.com/) for a more feature-rich solution.
 
