@@ -31,8 +31,8 @@ Mac users may want to check out [RepoPrompt](https://repoprompt.com/) for a more
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/markdown-file-combiner.git
-   cd markdown-file-combiner
+   - git clone https://github.com/ajitaravind/repomap.git
+   - cd repomap
 
 2. Create and activate a virtual environment:
    Windows:
