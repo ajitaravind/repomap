@@ -2,8 +2,6 @@
 
 A simple Python-based GUI application for Windows that allows users to select and combine multiple program files from their local machine into a single markdown file. This markdown file can then be used to create a structured context for LLM input, while preserving file hierarchy and relationships. The application comes with built-in token counting and file filtering capabilities.
 
-Mac users may want to check out [RepoPrompt](https://repoprompt.com/) for a more feature-rich solution.
-
 ## Features
 
 ### File System Navigation
